@@ -37,6 +37,7 @@
 
 //  var 1name = "Jeet" Syntax Error You Cant Start A Variable Name WITH Number
 
+
 //  console.log(1name) will give a syntax error
 
 // Logical Errors

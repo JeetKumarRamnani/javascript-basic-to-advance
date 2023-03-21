@@ -291,38 +291,3 @@ Topics We Will Cover In Our Javascript Course From Basic To Advance
     *   Internationalization and localization
     *   Progressive Web Apps (PWA)
     *   Serverless architecture
-
-```javascript
-// Import the necessary dependencies
-const express = require("express");
-const bodyParser = require("body-parser");
-
-// Create a new instance of express
-const app = express();
-
-// Use bodyParser middleware to parse request bodies
-app.use(bodyParser.urlencoded({ extended: true }));
-app.use(bodyParser.json());
-
-// Define a GET endpoint to retrieve a list of users
-app.get("/users", (req, res) => {
-  const users = [
-    { id: 1, name: "John Doe", email: "john.doe@example.com" },
-    { id: 2, name: "Jane Doe", email: "jane.doe@example.com" },
-    { id: 3, name: "Bob Smith", email: "bob.smith@example.com" },
-  ];
-  res.json(users);
-});
-
-// Define a POST endpoint to create a new user
-app.post("/users", (req, res) => {
-  const { name, email } = req.body;
-  const newUser = { id: 4, name, email };
-  res.status(201).json(newUser);
-});
-
-// Start the server
-app.listen(3000, () => {
-  console.log("Server is running on port 3000");
-});
-```

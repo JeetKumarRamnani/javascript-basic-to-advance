@@ -37,6 +37,7 @@
 
 //THESE Both Are Numbers
 
+
 //2-String
 
 // 'Any thing inside double or single quotes is called string true false'
