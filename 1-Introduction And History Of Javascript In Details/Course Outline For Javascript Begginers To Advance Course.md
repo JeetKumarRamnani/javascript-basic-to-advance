@@ -1,6 +1,8 @@
-Topics We Will Cover In Our Javascript Course From Basic To Advance
 
-1.  Introduction to JavaScript
+## Javascript From Basic To Advance  Course 2023
+
+
+**1.  Introduction to JavaScript**
 
     - What is JavaScript?
     - History of JavaScript
@@ -8,164 +10,195 @@ Topics We Will Cover In Our Javascript Course From Basic To Advance
     - Setting up the development environment
     - How to include JavaScript in a web page
 
-2.  Basic JavaScript Concepts
+**2.  Basic JavaScript Concepts**
 
-    - Variables
+    **- Variables**
       - Declaring variables
       - Data types
       - Type coercion
-    - Operators
+
+    **- Operators**
       - Arithmetic operators
       - Comparison operators
       - Logical operators
       - Assignment operators
       - Bitwise operators
-    - Control structures
+
+    **- Control structures**
       - If/else statements
       - Switch statements
       - Loops (for, while, do/while)
       - Break and continue statements
-    - Functions
+
+    **- Functions**
       - Declaring functions
       - Function parameters
       - Return statements
       - Anonymous functions
       - Arrow functions
-    - Arrays
+
+    **- Arrays**
       - Creating arrays
       - Accessing array elements
       - Adding and removing elements
       - Iterating through arrays
       - Array methods (e.g. map, reduce, filter)
-    - Objects
+
+    **- Objects**
       - Creating objects
       - Accessing object properties
       - Adding and deleting properties
       - Iterating through objects
       - Object methods
-    - String manipulation
+
+    **- String manipulation**
       - Concatenation
       - Substring extraction
       - Replacing strings
       - Converting strings to numbers
 
-3.  Document Object Model (DOM) Manipulation
+**3.  Document Object Model (DOM) Manipulation**
 
-    - Introduction to the Document Object Model (DOM)
-    - Selecting HTML elements
+    **- Introduction to the Document Object Model (DOM)**
+
+    **- Selecting HTML elements**
       - getElementById()
       - getElementsByClassName()
       - getElementsByTagName()
       - querySelector()
       - querySelectorAll()
-    - Modifying HTML elements
+
+    **- Modifying HTML elements**
       - Changing element content
       - Changing element attributes
       - Adding and removing classes
       - Changing element styles
-    - Creating and deleting HTML elements
+
+    **- Creating and deleting HTML elements**
       - Creating elements with document.createElement()
       - Adding elements with appendChild()
       - Deleting elements with removeChild()
-    - Handling events
+
+    **- Handling events**
       - Event listeners
       - Event types
       - Event propagation
       - Event object
 
-4.  Advanced JavaScript Concepts
+**4.  Advanced JavaScript Concepts**
 
-    - Closures
-    - Scope
+    **- Closures**
+    
+    **- Scope**
       - Global scope
       - Local scope
       - Lexical scope
-    - Callbacks
-    - Promises
+    
+    **- Callbacks**
+    
+    **- Promises**
       - Creating promises
       - Resolving and rejecting promises
       - Chaining promises
       - Handling errors with promises
-    - Async/await
+
+    **- Async/await**
       - Async functions
       - Await keyword
       - Handling errors with async/await
-    - Hoisting
+
+    **- Hoisting**
       - Function hoisting
       - Variable hoisting
-    - Prototypes
+
+    **- Prototypes**
       - Prototypal inheritance
       - Object.create()
       - Prototype chain
-    - Classes
+
+    **- Classes**
       - Creating classes
       - Class constructors
       - Class methods
       - Class inheritance
-    - Modules
+
+    **- Modules**
       - Importing and exporting modules
       - ES6 modules vs CommonJS modules
 
-5.  AJAX and JSON
+**5.  AJAX and JSON**
 
     - What is AJAX?
-    - XMLHttpRequest object
+
+    **- XMLHttpRequest object**
       - Making AJAX requests
       - Handling AJAX responses
-    - Fetch API
+
+    **- Fetch API**
       - Making AJAX requests
       - Handling AJAX responses
-    - What is JSON?
+
+    **- What is JSON?**
       - JSON syntax
       - JSON data types
-    - Parsing JSON data
+
+    **- Parsing JSON data**
       - JSON.parse()
-    - Sending and receiving JSON data
+
+    **- Sending and receiving JSON data**
       - Using AJAX to send and receive JSON data
 
-6.  Debugging and Testing
+**6.  Debugging and Testing**
 
-    - Using console.log()
-    - Using breakpoints
-    - Debugging tools
+    **- Using console.log()**
+
+    **- Using breakpoints**
+
+    **- Debugging tools**
       - Chrome DevTools
       - Firefox Developer Tools
-    - Unit testing
+
+    **- Unit testing**
       - Writing test cases
       - Using testing frameworks (e.g. Jest)
 
-7.  Regular Expressions
+**7.  Regular Expressions**
 
     - What are regular expressions?
     - Regular expression syntax
     - Matching patterns with regular expressions
     - Replacing patterns with regular expressions
 
-8.  Error Handling
+**8.  Error Handling**
 
     - Types of errors
     - try/catch statements
     - Handling errors in asynchronous code
 
-9.  Browser APIs
+**9.  Browser APIs**
 
-    - Window object
+    **- Window object**
       - Properties and methods
       - Timers (setTimeout, setInterval)
-    - Location object
+
+    **- Location object**
       - Changing the URL
       - Reading URL parameters
-    - History object
+
+    **- History object**
       - Navigating through history
-    - Navigator object
+
+    **- Navigator object**
       - Detecting browser information
-    - Storage
+
+    **- Storage**
       - Local storage
       - Session storage
-    - Geolocation
+
+    **- Geolocation**
       - Getting the user's location
 
-10. ES6 Features
+**10. ES6 Features**
 
 
     *   let and const variables
@@ -180,7 +213,7 @@ Topics We Will Cover In Our Javascript Course From Basic To Advance
     *   Async/await
     *   Iterators and generators
 
-11. Functional Programming
+**11. Functional Programming**
 
 
     *   What is functional programming?
@@ -190,7 +223,7 @@ Topics We Will Cover In Our Javascript Course From Basic To Advance
     *   Immutability
     *   Recursion
 
-12. Performance Optimization
+**12. Performance Optimization**
 
 
     *   Writing efficient code
@@ -200,7 +233,7 @@ Topics We Will Cover In Our Javascript Course From Basic To Advance
     *   Minifying code
     *   Code splitting
 
-13. Security
+**13. Security**
 
 
     *   Common web vulnerabilities
@@ -209,7 +242,7 @@ Topics We Will Cover In Our Javascript Course From Basic To Advance
     *   Content Security Policy (CSP)
     *   Best practices for secure coding
 
-14. Web APIs
+**14. Web APIs**
 
 
     *   Fetch API
@@ -217,13 +250,13 @@ Topics We Will Cover In Our Javascript Course From Basic To Advance
     *   WebRTC
     *   Web workers
 
-15. Libraries and Frameworks
+**15. Libraries and Frameworks**
 
 
     *   Introduction to popular libraries (e.g. jQuery, Lodash)
     *   Introduction to popular frameworks (e.g. React, Angular, Vue.js)
 
-16. Testing
+**16. Testing**
 
 
     *   What is testing?
@@ -232,7 +265,7 @@ Topics We Will Cover In Our Javascript Course From Basic To Advance
     *   Writing testable code
     *   Test-driven development (TDD)
 
-17. Node.js
+**17. Node.js**
 
 
     *   Introduction to Node.js
@@ -240,7 +273,7 @@ Topics We Will Cover In Our Javascript Course From Basic To Advance
     *   npm (Node Package Manager)
     *   Creating a simple Node.js application
 
-18. Express.js
+**18. Express.js**
 
 
     *   Introduction to Express.js
@@ -249,7 +282,7 @@ Topics We Will Cover In Our Javascript Course From Basic To Advance
     *   Middleware
     *   Handling form data
 
-19. Database Integration
+**19. Database Integration**
 
 
     *   Introduction to databases
@@ -258,7 +291,7 @@ Topics We Will Cover In Our Javascript Course From Basic To Advance
     *   Connecting to a database with Node.js
     *   Creating and querying a database
 
-20. Authentication and Authorization
+**20. Authentication and Authorization**
 
 
     *   User authentication
@@ -266,14 +299,14 @@ Topics We Will Cover In Our Javascript Course From Basic To Advance
     *   Password hashing
     *   OAuth and OpenID Connect
 
-21. Deployment
+**21. Deployment**
 
 
     *   Hosting options (e.g. Heroku, AWS, Firebase)
     *   Deploying a web application
     *   Continuous integration and deployment (CI/CD)
 
-22. Advanced JavaScript Techniques
+**22. Advanced JavaScript Techniques**
 
 
     *   Memoization
@@ -283,7 +316,7 @@ Topics We Will Cover In Our Javascript Course From Basic To Advance
     *   Closure
     *   Object-oriented programming with JavaScript
 
-23. Other Topics
+**23. Other Topics**
 
 
     *   Web performance optimization
