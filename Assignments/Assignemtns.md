@@ -112,3 +112,10 @@ Using a switch statement in JavaScript, you can write a program that takes a fru
 **Assignment NO 3:**
 Print A Table Of Any Given No In Javascript 
 
+## Assignment for Session 6: 
+
+**Assignment NO 1:**
+Write a function that takes two numbers as arguments and returns their sum
+
+**Assignment NO 2:**
+Write a function that takes a number as an argument and returns true if the number is even, and false if it's odd
